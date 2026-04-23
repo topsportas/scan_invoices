@@ -1,0 +1,51 @@
+<documents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <document>
+    <optype>pirkimas</optype>
+    <id>TRU0408374</id>
+    <docnum>0408374</docnum>
+    <docser>TRU</docser>
+    <date>2026-03-24</date>
+    <operationdate>2026-03-24</operationdate>
+    <duedate>2026-03-24</duedate>
+    <subtotal>3291.39</subtotal>
+    <vat>691.19</vat>
+    <total>3982.58</total>
+    <currency>EUR</currency>
+    <currencyrate>1</currencyrate>
+    <url/>
+    <filename>202604231957.jpg</filename>
+    <report2isaf>true</report2isaf>
+    <separatevat>false</separatevat>
+    <sellerid>159892440</sellerid>
+    <sellercode>159892440</sellercode>
+    <sellervat>LT100010895015</sellervat>
+    <sellername>UAB &amp;quot;Trukmeé Geica UAB&amp;quot;</sellername>
+    <selleraddress>Siaurés pr. 7-8 Kaunas, LT-49189 Kauno m. sav.,</selleraddress>
+    <sellerisperson>false</sellerisperson>
+    <sellercountry>lt</sellercountry>
+    <selleriban>LT897189900059467627</selleriban>
+    <buyerid>159892440</buyerid>
+    <buyercode>159892440</buyercode>
+    <buyervat>LT100010895015</buyervat>
+    <buyername>UAB &amp;quot;Trukmeé Geica UAB&amp;quot;</buyername>
+    <buyeraddress>Siaurés pr. 7-8 Kaunas, LT-49189 Kauno m. sav.,</buyeraddress>
+    <buyerisperson>false</buyerisperson>
+    <buyercountry>lt</buyercountry>
+    <hasreceipt>false</hasreceipt>
+    <line>
+      <lineid>0</lineid>
+      <price>3291.39</price>
+      <subtotal>3291.39</subtotal>
+      <vat>691.19</vat>
+      <vatpercent>21.00</vatpercent>
+      <total>3982.58</total>
+      <code>SERVICE</code>
+      <name>Paslaugos</name>
+      <unit>vnt</unit>
+      <quantity>1.00</quantity>
+      <vatclass>PVM1</vatclass>
+      <warehouse/>
+      <object/>
+    </line>
+  </document>
+</documents>
