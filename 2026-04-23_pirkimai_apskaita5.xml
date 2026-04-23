@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<documents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <document>
+    <optype>pirkimas</optype>
+    <id>VK100389</id>
+    <docnum>100389</docnum>
+    <docser>VK</docser>
+    <date>2026-02-27</date>
+    <operationdate>2026-02-27</operationdate>
+    <duedate>2026-03-04</duedate>
+    <subtotal>39.83</subtotal>
+    <vat>8.37</vat>
+    <total>48.20</total>
+    <currency>EUR</currency>
+    <currencyrate>1</currencyrate>
+    <url>https://atlyginimoskaiciuokle.com/media/uploads/accb561d1a3deb24/2de062d6835443e6b2f72644950f9b26.jpg</url>
+    <filename>984bc1a0-a3cd-4ae0-bbde-fb3dbafc031d.pdf</filename>
+    <report2isaf>true</report2isaf>
+    <separatevat>false</separatevat>
+    <sellerid>302594017</sellerid>
+    <sellercode>302594017</sellercode>
+    <sellervat>LT100006088312</sellervat>
+    <sellername>UAB &quot;VYČIO KOMISARAI&quot;</sellername>
+    <selleraddress>Veiverių g. 134C, Kaunas</selleraddress>
+    <sellerisperson>false</sellerisperson>
+    <sellercountry>lt</sellercountry>
+    <selleriban>LT707044060007805495</selleriban>
+    <buyerid>302740625</buyerid>
+    <buyercode>302740625</buyercode>
+    <buyervat></buyervat>
+    <buyername>UAB &quot;VABANA&quot;</buyername>
+    <buyeraddress>Architektų g. 56-101, Vilnius</buyeraddress>
+    <buyerisperson>false</buyerisperson>
+    <buyercountry>lt</buyercountry>
+    <hasreceipt>false</hasreceipt>
+    <line>
+      <lineid>0</lineid>
+      <price>17.52</price>
+      <subtotal>17.52</subtotal>
+      <vat>3.68</vat>
+      <vatpercent>21.00</vatpercent>
+      <total>21.20</total>
+      <code>3-10vabana2</code>
+      <name>Elektroninė apsauga; Kaunakiemio g.5, Kaunas (servis)</name>
+      <unit>mėn</unit>
+      <quantity>1.00</quantity>
+      <vatclass>PVM1</vatclass>
+      <warehouse></warehouse>
+      <object></object>
+    </line>
+    <line>
+      <lineid>1</lineid>
+      <price>4.79</price>
+      <subtotal>4.79</subtotal>
+      <vat>1.01</vat>
+      <vatpercent>21.00</vatpercent>
+      <total>5.80</total>
+      <code>3-9vabana</code>
+      <name>GPRS nuoma (plovykla)</name>
+      <unit>vnt</unit>
+      <quantity>1.00</quantity>
+      <vatclass>PVM1</vatclass>
+      <warehouse></warehouse>
+      <object></object>
+    </line>
+    <line>
+      <lineid>2</lineid>
+      <price>17.52</price>
+      <subtotal>17.52</subtotal>
+      <vat>3.68</vat>
+      <vatpercent>21.00</vatpercent>
+      <total>21.20</total>
+      <code>3-10vabana</code>
+      <name>Elektroninė apsauga; Kaunakiemio g.5, Kaunas (plovyk)</name>
+      <unit>mėn</unit>
+      <quantity>1.00</quantity>
+      <vatclass>PVM1</vatclass>
+      <warehouse></warehouse>
+      <object></object>
+    </line>
+  </document>
+</documents>
