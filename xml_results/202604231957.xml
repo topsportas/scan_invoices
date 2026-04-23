@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<documents xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <document>
+    <optype>pardavimas</optype>
+    <id>TRU0408374</id>
+    <docnum>0408374</docnum>
+    <docser>TRU</docser>
+    <date>2026-03-24</date>
+    <operationdate>2026-03-24</operationdate>
+    <duedate>2026-03-24</duedate>
+    <subtotal>3291.39</subtotal>
+    <vat>691.19</vat>
+    <total>3982.58</total>
+    <currency>EUR</currency>
+    <currencyrate>1</currencyrate>
+    <url></url>
+    <filename>202604231957.jpg</filename>
+    <report2isaf>true</report2isaf>
+    <separatevat>false</separatevat>
+    <sellerid>155892440</sellerid>
+    <sellercode>155892440</sellercode>
+    <sellervat>LT558924418</sellervat>
+    <sellername>UAB "Trukmė"</sellername>
+    <selleraddress>Itmonio g. 2, Garliava, LT-53204 Kaunas r., Lithuania</selleraddress>
+    <sellerisperson>false</sellerisperson>
+    <sellercountry>lt</sellercountry>
+    <selleriban>LT897189900059467627</selleriban>
+    <buyerid>304499265</buyerid>
+    <buyercode>304499265</buyercode>
+    <buyervat>LT100010895015</buyervat>
+    <buyername>UAB "Geica"</buyername>
+    <buyeraddress>Savanių pr. 7-8 Kaunas, LT-49189 Kaunas m. sav., Lithuania</buyeraddress>
+    <buyerisperson>false</buyerisperson>
+    <buyercountry>lt</buyercountry>
+    <hasreceipt>false</hasreceipt>
+    <line>
+      <lineid>0</lineid>
+      <price>3291.39</price>
+      <subtotal>3291.39</subtotal>
+      <vat>691.19</vat>
+      <vatpercent>21.00</vatpercent>
+      <total>3982.58</total>
+      <code>GS6000001</code>
+      <name>LMDP nuot.intat</name>
+      <unit>vnt</unit>
+      <quantity>1.00</quantity>
+      <vatclass>PVM1</vatclass>
+      <warehouse></warehouse>
+      <object></object>
+    </line>
+  </document>
+</documents>
